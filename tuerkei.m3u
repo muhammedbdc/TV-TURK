@@ -1,49 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Top Türkisch" tvg-logo="https://seeklogo.com/images/A/atv-avrupa-logo-0056B3F507-seeklogo.com.png", 1. ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/hls.m3u8
+#EXTINF:-1 group-title="Top 6" tvg-logo="https://seeklogo.com/images/A/atv-avrupa-logo-0056B3F507-seeklogo.com.png", 1. ATV Avrupa
+https://trkvz-live.ercdn.net/atvavrupa/hls.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Top Türkisch", 2. Show Türk
-https://ciner-live.daioncdn.net/showturk/showturk.m3u8
+#EXTINF:-1 group-title="Top 6", 2. Show Türk
+https://ciner-live.daioncdn.net/showturk/showturk.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Top Türkisch", 3. Kanal 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 group-title="Top 6", 3. Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Top Türkisch", 4. Euro Star
-https://dogus-live.daioncdn.net/eurostar/eurostar.m3u8
+#EXTINF:-1 group-title="Top 6", 4. Euro Star
+https://dogus-live.daioncdn.net/eurostar/eurostar.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Top Türkisch", 5. Euro D
-https://kanald-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Top 6", 5. Euro D
+https://kanald-live.daioncdn.net/kanald/kanald.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Top Türkisch", 6. TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Top 6", 6. TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Unterhaltung", TV 8 Int
-https://tv8-live.daioncdn.net/tv8int/tv8int.m3u8
+#EXTINF:-1 group-title="Türkisch Mix", TV 8 Int
+https://tv8-live.daioncdn.net/tv8int/tv8int.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Doku (NatGeo Ersatz)", DMAX Türkiye
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 group-title="Doku", TRT Belgesel (NatGeo Alternative)
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Doku (NatGeo Ersatz)", TRT Belgesel
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Doku", DMAX Türkiye (NatGeo Alternative)
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Doku (NatGeo Ersatz)", TGRT Belgesel
-https://tgrt-live.ercdn.net/tgrtbelgesel/hls.m3u8
+#EXTINF:-1 group-title="Doku", TGRT Belgesel
+https://tgrt-live.ercdn.net/tgrtbelgesel/hls.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Sport", A Spor
-https://trkvz-live.ercdn.net/aspor/hls.m3u8
+https://trkvz-live.ercdn.net/aspor/hls.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Sport", TRT Spor
-https://tv-trtspor.live.trt.com.tr/master.m3u8
+https://tv-trtspor.live.trt.com.tr/master.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="News", TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="News", Habertürk TV
+https://ciner-live.daioncdn.net/haberturk/haberturk.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Kinder TR", TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Kinder TR", Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Kinder DE", Nickelodeon (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/586e80b2d6a798547470f146/master.m3u8
-
-#EXTINF:-1 group-title="Kinder DE", Toggo (Super RTL)
-http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/601817367c74230007dc45a7/master.m3u8
-
-#EXTINF:-1 group-title="Kinder DE", Nick Jr. (Für Kleine)
-http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/587664654067d0221973f550/master.m3u8
+http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/586e80b2d6a798547470f146/master.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Kinder DE", SpongeBob TV (24/7)
-http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5a9e5db38914d7646a782046/master.m3u8
+http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5a9e5db38914d7646a782046/master.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Kinder DE", Toggo (Super RTL)
+http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/601817367c74230007dc45a7/master.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Kinder DE", Nick Jr.
+http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/587664654067d0221973f550/master.m3u8|User-Agent=Mozilla/5.0
