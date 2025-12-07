@@ -1,43 +1,43 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Top 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/atv-avrupa.png", 1. ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/hls.m3u8
+https://trkvz-live.ercdn.net/atvavrupa/hls.m3u8|Referer=https://www.atvavrupa.tv/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Top 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/show-turk.png", 2. Show Türk
-https://ciner-live.daioncdn.net/showturk/showturk.m3u8
+https://ciner-live.daioncdn.net/showturk/showturk.m3u8|Referer=https://www.showturk.com.tr/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Top 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/kanal-7-avrupa.png", 3. Kanal 7 Avrupa
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8|Referer=https://www.kanal7avrupa.com/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Top 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/euro-star.png", 4. Euro Star
-https://dogus-live.daioncdn.net/eurostar/eurostar.m3u8
+https://dogus-live.daioncdn.net/eurostar/eurostar.m3u8|Referer=https://www.eurostartv.com.tr/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Top 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/euro-d.png", 5. Euro D
-https://kanald-live.daioncdn.net/kanald/kanald.m3u8
+https://kanald-live.daioncdn.net/kanald/kanald.m3u8|Referer=https://www.kanald.com.tr/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Top 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/trt-1.png", 6. TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
+https://tv-trt1.live.trt.com.tr/master.m3u8|Referer=https://www.trtizle.com/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Unterhaltung" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/tv8-int.png", TV 8 Int
-https://tv8-live.daioncdn.net/tv8int/tv8int.m3u8
+https://tv8-live.daioncdn.net/tv8int/tv8int.m3u8|Referer=https://www.tv8int.com/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Doku" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/trt-belgesel.png", TRT Belgesel
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8|Referer=https://www.trtizle.com/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Doku" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/dmax.png", DMAX Türkiye
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8|Referer=https://www.dmax.com.tr/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/a-spor.png", A Spor
-https://trkvz-live.ercdn.net/aspor/hls.m3u8
+https://trkvz-live.ercdn.net/aspor/hls.m3u8|Referer=https://www.aspor.com.tr/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tr/trt-spor.png", TRT Spor
-https://tv-trtspor.live.trt.com.tr/master.m3u8
+https://tv-trtspor.live.trt.com.tr/master.m3u8|Referer=https://www.trtizle.com/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Kinder DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png", Nickelodeon DE
-http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/586e80b2d6a798547470f146/master.m3u8
+http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/586e80b2d6a798547470f146/master.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Kinder DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Toggo_logo.png/800px-Toggo_logo.png", Toggo
-http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/601817367c74230007dc45a7/master.m3u8
+http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/601817367c74230007dc45a7/master.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Kinder DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SpongeBob_SquarePants_logo.svg/1200px-SpongeBob_SquarePants_logo.svg.png", SpongeBob TV
-http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5a9e5db38914d7646a782046/master.m3u8
+http://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5a9e5db38914d7646a782046/master.m3u8|User-Agent=Mozilla/5.0
